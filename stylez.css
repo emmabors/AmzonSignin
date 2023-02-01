@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+ul li{
+    display: inline-block;
+    }
+
+.pass{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.forg{
+    color: blue;
+}
+
+p {
+    text-align: left;
+}
+
+.flexbox-containerr{
+    display: flex;
+    justify-content:center;
+    background-color: rgb(178, 176, 176);
+    font-size: small;
+    
+}
+
+.flexbox-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+div{
+    border: thin solid lightgray;
+    border-color: lightgray;
+    display: inline-block;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 570px;
+    margin-right: 570px;
+    padding: 10px;
+    
+}
+
+.sub{
+    background-color: rgba(223, 189, 53, 0.943);
+    float: center;
+}
+
+h2{
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif thin;
+    
+}
+
+.firebox-container2{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    border: none;
+}
+
+.links{
+    display:inline
+    text-align: center;
+    justify-content: space-between;
+    text-indent: 10%
+    border: none;
+}
+
+.copy{
+    text-align: center;
+}
+
+.flexbox-container3{
+    border:none;
+    justify-content: space-between;
+}
